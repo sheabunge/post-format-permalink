@@ -1,4 +1,4 @@
-=== Posterize ===
+=== Post Format Permalink ===
 Contributors: Yan Sarazin
 Tags: post, permalink, format, post format
 Requires at least: 3.1
