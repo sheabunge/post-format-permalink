@@ -36,7 +36,7 @@ class PostFormatPermalink {
 		add_filter('generate_rewrite_rules', array(&$this, 'generate_rewrite_rules'));
 		
 		if(is_admin()){
-			wp_enqueue_style('style', WP_PLUGIN_URL . '/posterize/css/styles.css');
+			wp_enqueue_style('style', WP_PLUGIN_URL . '/post-format-permalink/css/styles.css');
     	add_action('admin_menu', array(&$this, 'admin_settings_menu_link'));
       add_filter('plugin_row_meta', array(&$this, 'admin_plugin_links'),10,2);
 		}
