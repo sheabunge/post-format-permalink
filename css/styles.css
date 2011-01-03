@@ -1,0 +1,63 @@
+.section {
+  border: 1px solid #E3E3E3;
+  width: 750px;
+  background-color: #FFF;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+.section > h2 {
+  background-color: #F1F1F1;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+  margin: 0;
+}
+
+.section > h2 > a {
+  font-size: 0.6em;
+}
+
+.section > div {
+  padding: 15px 20px;
+
+}
+
+div.fl {
+  float: left;
+}
+
+div.fr {
+  float: right;
+}
+
+div.desc {
+  background: #F1F1F1;
+  padding: 10px;
+  width: 350px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+}
+
+div.desc > ol {
+  margin-top: 5px;
+}
+div.desc > ol li {
+  margin: 0 0 0 10px;
+  color: #666;
+}
+div.clear {
+  clear: both;
+}
+
+.section label {
+  font-weight: bold;
+}
+
+.section .text-field {
+  font-size: 1.2em;
+  padding: 5px;
+  width: 275px;
+}
