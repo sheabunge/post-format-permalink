@@ -4,7 +4,7 @@ Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: post, permalink, format, post format
 Requires at least: 3.1
 Tested up to: 3.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Include post format slug in post permalink.
 

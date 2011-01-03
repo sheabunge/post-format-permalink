@@ -3,7 +3,7 @@
 Plugin Name: Post Format Permalink
 Plugin URI: http://statikpulse.com/post-format-permalink
 Description: Post Format Permalink plugin gives you the ability to include the post format slug in your permalinks. Once the plugin is activated, simply include the %format% tag in your custom permalink.
-Version: 1.1
+Version: 1.1.1
 Author: Yan Sarazin 
 Author URI: http://statikpulse.com
 */
