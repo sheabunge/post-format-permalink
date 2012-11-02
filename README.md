@@ -2,6 +2,7 @@
 
 Include the post format slug in your permalinks. Simply use the `%post_format%` tag as part of your custom permalink.
 
+Also see the assossiated [Stack Exchange question](http://wordpress.stackexchange.com/q/70627/19726).
 
 ## Changelog
 
